@@ -1,7 +1,7 @@
 {
-    "token": "Your Token Here",
+    "token": "token",
     "mongo": "Your Mongo Uri",
-    "clientId": "Your Bot Id"
+    "clientId": "1219109671239942214"
     
 }
 
